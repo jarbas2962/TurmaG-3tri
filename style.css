@@ -1,16 +1,21 @@
-.texto {color:blue;
-font-size: 20px;
-text-align: justify;
+body{
+    background-color: #9EBF56;
 }
 
 
-#titulo
-{font: size 40px;
+.texto {
+    color:#384359;
+    font-size: 20px;
+    text-align: justify;
+}
+
+
+#titulo {
+font-size: 40px;
 text-align: center;
-color: brown;
+color: #384359;
 }
 
 
 
 
-body{backgro#A#9EBF56;}
